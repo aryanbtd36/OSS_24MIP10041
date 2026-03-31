@@ -110,27 +110,4 @@ Detailed usage examples and argument descriptions are available inside each scri
 
 ---
 
-## References
 
-1. GNU Project. The Free Software Definition. https://www.gnu.org/philosophy/free-sw.html
-2. Open Source Initiative. The Open Source Definition. https://opensource.org/osd
-3. Raymond, E.S. The Cathedral and the Bazaar. http://catb.org/~esr/writings/cathedral-bazaar/
-4. Git Source Repository and COPYING file. https://github.com/git/git
-5. Software Freedom Conservancy. https://sfconservancy.org/
-6. Git Reference Manual. https://git-scm.com/docs
-7. SPDX License List. https://spdx.org/licenses/
-8. Shotts, W. The Linux Command Line. https://linuxcommand.org
-9. GNU Bash Manual. https://www.gnu.org/software/bash/manual/
-10. Stack Overflow Developer Survey 2023. https://survey.stackoverflow.co/2023/
-
----
-
-## License
-
-All shell scripts and report content in this project are licensed under the GNU General Public License v2.0.
-
-Full license text: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
-
----
-
-VIT Bhopal University | School of Computer Science and Engineering | Open Source Software (NGMC) | AY 2025-26
